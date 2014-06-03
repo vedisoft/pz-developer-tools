@@ -54,7 +54,7 @@
 	
 Завершение исходящего звонка с номера 101 на номер 223322 продолжительностью 10 секунд:
 
-	[events off]> generate history 101 223322 1385035625 1385035635 10 in ftp://recordings/somecall.mp3
+	[events off]> generate history 101 223322 1385035625 1385035635 10 out ftp://recordings/somecall.mp3
 
 
 Все возможности утилиты и описание команд можно посмотреть с помощью команды help:
