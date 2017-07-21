@@ -42,7 +42,7 @@
 	
 Завершение входящего звонка с номера 223322 на номер 101 продолжительностью 5 секунд:
 
-	[events off]> generate history 223322 101 1385035625 1385035630 5 in ftp://recordings/somecall.mp3
+	[events off]> generate history 223322 101 1385035625 1385035630 5 in http://prostiezvonki.ru/recording.mp3
 
 Исходящий звонок с номера 101 на номер 223322:
 
